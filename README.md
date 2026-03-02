@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project focuses on transforming raw transactional data into actionable financial insights for Atliq Hardwares, a global electronics manufacturer. Using Excel (Power Query & Power Pivot), I developed a robust data model to analyze Profit and Loss (P&L) statements across 27+ international markets.
+This project focuses on transforming raw transactional data into actionable financial insights for Atliq Hardwares, a global electronics manufacturer. Using Excel (Power Query & Power Pivot), I developed a robust data model to analyze Profit and Loss (P&L) statements.
 
 The primary objective was to empower stakeholders to evaluate annual profitability and monitor quarterly trends, enabling data-driven decisions regarding market expansion and margin optimization.
 
